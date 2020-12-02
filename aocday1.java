@@ -24,7 +24,7 @@ public class aocday1{
 
 
             } else if ( required == 1010){
-                System.out.println(1010*2);
+                System.out.println(1010*2 + "is Doomed");
                 break;
             }
         }
